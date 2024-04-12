@@ -6,5 +6,6 @@
   "zenz": "zenzkey_80e2a233dd",
   "dev": { "num1": "94767453646@s.whatsapp.net",
            "num2": "94758179948@s.whatsapp.net",
-           "emj": "👨‍💻" }
+           "emj": "👨‍💻" },
+  "pass": "@ghost_md_1_2"
 }
