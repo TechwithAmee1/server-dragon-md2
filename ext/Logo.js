@@ -8,7 +8,7 @@
     "https://photooxy.com/logo-and-text-effects/write-text-on-burn-paper-388.html",
     "https://photooxy.com/logo-and-text-effects/create-a-picture-of-love-message-377.html",
     "https://photooxy.com/logo-and-text-effects/make-quotes-under-grass-376.html",
-    "https://photooxy.com/logo-and-text-effects/make-tik-tok-text-effect-375.html",
+    "https://photooxy.com/other-design/retro-avatar-league-of-legends-147.html",
     "https://photooxy.com/logo-and-text-effects/put-your-text-on-a-coffee-cup--174.html",
     "https://photooxy.com/logo-and-text-effects/writing-on-wooden-boards-368.html",
     "https://photooxy.com/logo-and-text-effects/create-a-layered-leaves-typography-text-effect-354.html",
