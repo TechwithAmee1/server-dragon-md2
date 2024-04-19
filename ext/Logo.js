@@ -3,7 +3,7 @@
     "https://photooxy.com/elegant-3d-neon-dark-metal-text-effect-online-free-416.html",
     "https://photooxy.com/online-3d-white-stone-text-effect-utility-411.html",
     "https://photooxy.com/logo-and-text-effects/shadow-text-effect-in-the-sky-394.html",
-    "https://photooxy.com/logo-and-text-effects/write-text-on-burn-paper-388.html",
+    "https://photooxy.com/logo-and-text-effects/quotes-under-fall-leaves-347.html",
     "https://photooxy.com/other-design/create-an-easy-smoke-type-effect-390.html",
     "https://photooxy.com/logo-and-text-effects/write-text-on-burn-paper-388.html",
     "https://photooxy.com/logo-and-text-effects/create-a-picture-of-love-message-377.html",
