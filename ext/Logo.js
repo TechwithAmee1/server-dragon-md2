@@ -165,7 +165,7 @@
     "url": "https://photooxy.com/logo-and-text-effects/text-under-web-matrix-effect-185.html",
     "double_text": false,
     "selection": true,
-    "select": 3,
+    "select": 2,
     "double_selection": false
     },
   {
@@ -187,7 +187,7 @@
     "url": "https://photooxy.com/logo-and-text-effects/create-party-neon-text-effect-161.html",
     "double_text": false,
     "selection": true,
-    "select": 5,
+    "select": 4,
     "double_selection": false
     },
   {
@@ -202,7 +202,7 @@
     "url": "https://photooxy.com/logo-and-text-effects/make-great-quotes-on-nature-211.html",
     "double_text": false,
     "selection": true,
-    "select": 6,
+    "select": 5,
     "double_selection": false
     },
   {
@@ -224,7 +224,7 @@
     "url": "https://photooxy.com/logo-and-text-effects/create-wallpaper-with-modern-metal-text-179.html",
     "double_text": false,
     "selection": true,
-    "select": 6,
+    "select": 5,
     "double_selection": false
     },
   {
@@ -267,8 +267,8 @@
     "url": "https://photooxy.com/league-of-legends/shine-banner-skins-of-league-of-legends-145.html",
     "double_text": false,
     "selection": false,
-    "select1": 1,
-    "select2": 1,
+    "select1": 0,
+    "select2": 0,
     "double_selection": true
     },
   {
@@ -276,7 +276,7 @@
     "url": "https://photooxy.com/other-design/create-dark-metal-text-with-special-logo-160.html",
     "double_text": false,
     "selection": true,
-    "select": 11,
+    "select": 10,
     "double_selection": false
     },
   {
